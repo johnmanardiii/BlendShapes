@@ -1,0 +1,50 @@
+thank 0.0
+you .25
+. 2.09
+Ill 2.23
+say 3.03
+good 3.12
+bye 3.22
+soon 4.20
+. 6.02
+tho 6.16
+its 6.25
+the 7.05
+end 7.12
+of 7.20
+the 7.30
+world 8.00
+. 9.05
+dont 10.07
+blame 10.17
+your 10.24
+self 11.07
+now 12.29
+and 14.10
+if 14.19
+its 14.29
+true 15.20
+i 17.23
+will 18.02
+surround 18.11
+you 19.15
+and 20.26
+give 21.06
+life 21.16
+to 21.22
+our 21.26
+world 22.15
+thats 25.09
+our 25.28
+own 26.08
+. 28.04
+
+
+
+
+
+
+
+
+
+
